@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x52df;&#x96c6;&#x4e2d;/YFMyInvestmentIsInTheFundraisingViewController.m"
+            timestampString = "555836037.3081419"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x52df;&#x96c6;&#x4e2d;/YFMyInvestmentIsInTheFundraisingViewController.m"
+            timestampString = "555836037.308324"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x94f6;&#x884c;/&#x89e3;&#x7ed1;&#x94f6;&#x884c;&#x5361;/YFUnbindBankCardViewController.m"
+            timestampString = "556600937.792601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "-theNextStepClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x767b;&#x5f55;&#x5bc6;&#x7801;/YFChangeLoginPasswordViewController.m"
+            timestampString = "557311294.131948"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x767b;&#x5f55;&#x5bc6;&#x7801;/YFChangeLoginPasswordViewController.m"
+            timestampString = "557311294.132026"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "-ReplaceTheNewPassword"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x767b;&#x5f55;&#x5bc6;&#x7801;/YFChangeLoginPasswordViewController.m"
+            timestampString = "557311294.132094"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-theNextStepClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x52df;&#x96c6;&#x4e2d;/YFMyInvestmentIsInTheFundraisingViewController.m"
+            timestampString = "557137427.804521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "-DataRequest"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFMyInvestmentIsInTheFundraisingViewController DataRequest]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84-%E6%9B%B4%E5%A4%9A/%E5%8B%9F%E9%9B%86%E4%B8%AD/YFMyInvestmentIsInTheFundraisingViewController.m"
+                  timestampString = "557667549.899632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[YFMyInvestmentIsInTheFundraisingViewController DataRequest]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84-%E6%9B%B4%E5%A4%9A/%E5%8B%9F%E9%9B%86%E4%B8%AD/YFMyInvestmentIsInTheFundraisingViewController.m"
+                  timestampString = "557667549.902155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84/%E6%88%91%E7%9A%84%E6%8A%95%E8%B5%84-%E6%9B%B4%E5%A4%9A/%E5%8B%9F%E9%9B%86%E4%B8%AD/YFMyInvestmentIsInTheFundraisingViewController.m"
+                  timestampString = "557667549.9045351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x52df;&#x96c6;&#x4e2d;/YFMyInvestmentIsInTheFundraisingViewController.m"
+            timestampString = "557217629.25317"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x52df;&#x96c6;&#x4e2d;/V/YFMyInvestmentIsInTheFundraisingTableViewCell.m"
+            timestampString = "557311294.132578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "-setterIndexSection:IndexPath:stateString:MyInvestmentModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x767b;&#x5f55;&#x6ce8;&#x518c;/YFVerificationCodeViewController.m"
+            timestampString = "557311294.13281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "-srfString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFVerificationCodeViewController srfString:]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.924835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__46-[YFVerificationCodeViewController srfString:]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.9291379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.184"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.932088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x624b;&#x673a;&#x53f7;/YFModifyPhoneNumberViewController.m"
+            timestampString = "557311294.132885"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "-codeBtn"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFModifyPhoneNumberViewController codeBtn]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberViewController.m"
+                  timestampString = "557667549.939974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[YFModifyPhoneNumberViewController codeBtn]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberViewController.m"
+                  timestampString = "557667549.943761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.162"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberViewController.m"
+                  timestampString = "557667549.946581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x624b;&#x673a;&#x53f7;/YFModifyPhoneNumberAgainViewController.m"
+            timestampString = "557311294.132949"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "-codeBtn"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFModifyPhoneNumberAgainViewController codeBtn]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.955422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[YFModifyPhoneNumberAgainViewController codeBtn]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.958231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.161"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.960723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x767b;&#x5f55;&#x6ce8;&#x518c;/YFVerificationCodeViewController.m"
+            timestampString = "557311294.133015"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "-codeBtn"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFVerificationCodeViewController codeBtn]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.967362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[YFVerificationCodeViewController codeBtn]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.969786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.170"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C/YFVerificationCodeViewController.m"
+                  timestampString = "557667549.972478"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x624b;&#x673a;&#x53f7;/YFModifyPhoneNumberAgainViewController.m"
+            timestampString = "557311294.133072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "-srfString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x8d26;&#x6237;&#x5b89;&#x5168;/&#x4fee;&#x6539;&#x624b;&#x673a;&#x53f7;/YFModifyPhoneNumberAgainViewController.m"
+            timestampString = "557311294.133127"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "-srfString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[YFModifyPhoneNumberAgainViewController srfString:]"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.9861341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52-[YFModifyPhoneNumberAgainViewController srfString:]_block_invoke"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.98858"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.175"
+                  moduleName = "GoldenRiceBags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fengding_ping/Documents/Development/AppCode/%E9%87%91%E7%B1%B3%E8%A2%8B/GoldenRiceBags/YFClasses/%E6%88%91%E7%9A%84/%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/%E4%BF%AE%E6%94%B9%E6%89%8B%E6%9C%BA%E5%8F%B7/YFModifyPhoneNumberAgainViewController.m"
+                  timestampString = "557667549.991258"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x94f6;&#x884c;/YFMineBnakCardViewController.m"
+            timestampString = "557311294.1331871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "-aboutClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x8d26;&#x6237;&#x4fe1;&#x606f;/&#x94f6;&#x884c;/YFMineBnakCardViewController.m"
+            timestampString = "557311294.133245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "409"
+            endingLineNumber = "409"
+            landmarkName = "-aboutClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x7406;&#x8d22;&#x9879;&#x76ee;/&#x9879;&#x76ee;&#x8be6;&#x60c5;/&#x6295;&#x8d44;&#x8bb0;&#x5f55;/YFInvestmentTableViewController.m"
+            timestampString = "557292956.469162"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x6211;&#x7684;&#x6295;&#x8d44;-&#x66f4;&#x591a;/&#x8ba1;&#x606f;&#x4e2d;/&#x56de;&#x6b3e;&#x8ba1;&#x5212;/YFTheRemittancePlanTableViewController.m"
+            timestampString = "557293537.608004"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/YFMineViewController.m"
+            timestampString = "557655063.417033"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "719"
+            endingLineNumber = "719"
+            landmarkName = "-myRedPacketsClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/YFMineViewController.m"
+            timestampString = "557655067.039607"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "744"
+            endingLineNumber = "744"
+            landmarkName = "-inviteFriendsClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/YFMineViewController.m"
+            timestampString = "557655070.44853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "829"
+            endingLineNumber = "829"
+            landmarkName = "-TiedCardPopSuccessfulType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x6295;&#x8d44;/&#x503a;&#x6743;&#x8f6c;&#x8ba9;/&#x8f6c;&#x8ba9;&#x4e2d;/YFCreditorsRightsTransferInTheViewController.m"
+            timestampString = "557661524.388332"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenRiceBags/YFClasses/&#x6211;&#x7684;/&#x6211;&#x7684;&#x501f;&#x6b3e;/&#x6211;&#x7684;&#x501f;&#x6b3e;&#x72b6;&#x6001;/&#x52df;&#x96c6;&#x4e2d;/YFToRaiseTheViewController.m"
+            timestampString = "557667773.059677"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "-DataRequest"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
